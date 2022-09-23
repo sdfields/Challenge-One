@@ -7,7 +7,7 @@ The goal of challenge number one was to provide better accessibility to the webp
 Accessibility is important for websites for many reasons: <br />
  * Government websites require accessibility for the multitude of end users.<br />
  * Accessibility helps users with technologies such as braille keyboards and screen readers.<br />
- * More accessible websites also tend to rank appear higher in search engines.
+ * More accessible websites also tend to appear higher in search engines.
 
 # Usage
 In order to view the accessibility changes made to the webpage:<br />
